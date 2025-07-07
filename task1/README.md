@@ -10,7 +10,7 @@ This task involved designing an ERD for a portfolio management system used by fi
 - Securities track purchase info (price, date, quantity)
 
 ## 🧱 ERD
-![ERD](./portfolio-system-erd.png)
+![ERD](./ErdDiagram.png)
 
 ## 💡 Key Considerations
 - Used relational structure for integrity and performance
