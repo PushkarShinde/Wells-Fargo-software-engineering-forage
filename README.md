@@ -32,7 +32,10 @@ Welcome! This repository contains my completed work for the **Wells Fargo Softwa
 
 ## 📜 Certificate
 
-📝 I will update this section with the link to my completion certificate once the simulation is finished.
+![Wells Fargo Certificate](./certificate/WellsFargoJobSim.png)
+
+✅ Successfully completed the [Wells Fargo Software Engineering Virtual Experience Program](https://www.theforage.com/simulations/wells-fargo/software-engineering-nkq4) on Forage.
+
 
 ---
 
