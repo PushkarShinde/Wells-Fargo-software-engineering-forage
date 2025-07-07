@@ -8,8 +8,8 @@ Welcome! This repository contains my completed work for the **Wells Fargo Softwa
 
 | Task | Description | Folder |
 |------|-------------|--------|
-| 🧩 Task 1 | **Data Modeling & Requirements Analysis**<br>Designed an Entity Relationship Diagram (ERD) for a system to manage financial advisor-client portfolios. | [`task-1-requirements/`](./task-1-requirements) |
-| 💻 Task 2 | **(Name it when you get it)**<br>Description of the second task’s purpose, once assigned. | [`task-2-.../`](./task-2-.../) |
+| 🧩 Task 1 | **Data Modeling & Requirements Analysis**<br>Designed an Entity Relationship Diagram (ERD) for a system to manage financial advisor-client portfolios. | [`task1/`](./task1/) |
+| 💻 Task 2 | **JPA Entity Implementation**<br>Implementing our data model using the Java Persistence API. | [`task2/`](./task2/) |
 
 ---
 
@@ -24,10 +24,9 @@ Welcome! This repository contains my completed work for the **Wells Fargo Softwa
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Java, Spring Framework (planned)
-- **Frontend**: React Dashboard (planned)
+- **Backend**: Java, Spring Framework
 - **Database**: Relational (ERD designed accordingly)
-- **Tools Used**: Miro / dbdiagram.io, Markdown, Git & GitHub
+- **Tools Used**: dbdiagram.io, Markdown, Git & GitHub
 
 ---
 
@@ -39,9 +38,8 @@ Welcome! This repository contains my completed work for the **Wells Fargo Softwa
 
 ## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](#)
-- 🌐 [Portfolio](#)
-- 🧑‍💻 [GitHub](https://github.com/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pushkar-shinde-636973221/)
+- 🧑‍💻 [GitHub](https://github.com/PushkarShinde)
 
 ---
 

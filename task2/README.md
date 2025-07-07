@@ -15,4 +15,4 @@ Each class includes:
 
 Code is located in the `entities/` package inside the provided Spring Boot project.
 
-🔗 [View the implementation here](./task-2-jpa-implementation/src/main/java/com/wellsfargo/portfolio/entities)
+🔗 [View the implementation here](./src/main/java/com/wellsfargo/counselor/entity/)

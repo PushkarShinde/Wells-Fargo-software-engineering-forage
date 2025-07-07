@@ -18,8 +18,8 @@ This task involved designing an ERD for a portfolio management system used by fi
 - Designed for use with Spring Boot backend and React dashboard
 
 ## 🛠 Tools Used
-- ERD Tool: dbdiagram.io / Miro
-- Backend Tech: Java + Spring (per future tasks)
+- ERD Tool: dbdiagram.io
+- Backend Tech: Java + Spring
 
 ---
 
